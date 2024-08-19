@@ -1,0 +1,14 @@
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\bin\Debug\net8.0\CursoTelegram.exe
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\bin\Debug\net8.0\CursoTelegram.deps.json
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\bin\Debug\net8.0\CursoTelegram.runtimeconfig.json
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\bin\Debug\net8.0\CursoTelegram.dll
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\bin\Debug\net8.0\CursoTelegram.pdb
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\CursoTelegram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\CursoTelegram.AssemblyInfoInputs.cache
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\CursoTelegram.AssemblyInfo.cs
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\CursoTelegram.csproj.CoreCompileInputs.cache
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\CursoTelegram.dll
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\refint\CursoTelegram.dll
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\CursoTelegram.pdb
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\CursoTelegram.genruntimeconfig.cache
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\ref\CursoTelegram.dll
