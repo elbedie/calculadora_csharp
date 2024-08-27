@@ -22,10 +22,10 @@ namespace Calculadora
             while (true)
             {
                 Console.Write("Selecione o primeiro número: ");
-                double num1 = Convert.ToDouble(Console.ReadLine());
+                decimal num1 = Convert.ToDecimal(Console.ReadLine());
 
                 Console.Write("Selecione o segundo número: ");
-                double num2 = Convert.ToDouble(Console.ReadLine());
+                decimal num2 = Convert.ToDecimal(Console.ReadLine());
 
                 Console.Clear();
 
@@ -37,7 +37,7 @@ namespace Calculadora
 
                 Console.WriteLine("Insira a opção desejada: ");
                 int operacao = Convert.ToInt32(Console.ReadLine()!);
-                double resultado = 0;
+                decimal resultado;
 
                 switch (operacao)
                 {
@@ -55,8 +55,15 @@ namespace Calculadora
                         Console.WriteLine($"O resultado da multiplicação é: {resultado}");
                         break;
                     case 4:
-                        resultado = Operacoes.Divisao(num1, num2);
-                        Console.WriteLine($"O resultado da divisão é: {resultado}");
+                        try
+                        {
+                            resultado = Operacoes.Divisao(num1, num2);
+                            Console.WriteLine($"O resultado da divisão é: {resultado}");
+                        }
+                        catch (DivideByZeroException)
+                        {
+                            Console.WriteLine("Não se pode dividir um número por 0!");
+                        }
                         break;
                     default:
                         Console.WriteLine("Opção não existe!");

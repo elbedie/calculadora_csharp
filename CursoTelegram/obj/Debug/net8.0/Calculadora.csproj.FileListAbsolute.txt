@@ -12,3 +12,4 @@ C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8
 C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\Calculadora.pdb
 C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\ref\Calculadora.dll
+C:\Users\Diego David\Documents\cursos\CursoTelegram\CursoTelegram\obj\Debug\net8.0\Calculadora.sourcelink.json

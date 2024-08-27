@@ -8,22 +8,22 @@ namespace Calculadora
 {
     public class Operacoes
     {
-        public static double Adicao(double num1, double num2)
+        public static decimal Adicao(decimal num1, decimal num2)
         {
             return num1 + num2;
         }
 
-        public static double Subtracao(double num1, double num2)
+        public static decimal Subtracao(decimal num1, decimal num2)
         {
             return num1 - num2;
         }
 
-        public static double Multiplicacao(double num1, double num2)
+        public static decimal Multiplicacao(decimal num1, decimal num2)
         {
             return num1 * num2;
         }
 
-        public static double Divisao(double num1, double num2)
+        public static decimal Divisao(decimal num1, decimal num2)
         {
             return num1 / num2;
         }
